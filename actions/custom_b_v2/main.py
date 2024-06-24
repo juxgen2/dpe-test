@@ -6,5 +6,5 @@ logger = logging.getLogger(__name__)
 
 def customfunc(event):
 
-    logger.info("Begin function A v2")
-    
+    logger.info("new from v2")
+    # do your code here

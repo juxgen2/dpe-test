@@ -1,10 +1,10 @@
 {
     "action": "custom",
-    "action_id": "66792fba55b3cf886bcd2ee5",
+    "action_id": "667932b855b3cf886bcd2ee8",
     "description": "",
-    "display_name": "custom A v2",
+    "display_name": "custom B v2 ",
     "environment": {
-        "_id": "66792fba55b3cf886bcd2ee6",
+        "_id": "667932b855b3cf886bcd2ee9",
         "build": null,
         "concurrent_execution": false,
         "dependencies": {
@@ -44,16 +44,14 @@
             "version": "latest"
         }
     ],
-    "name": "custom_v1",
+    "name": "custom_b_v2",
     "params": {
         "content": "",
         "dependencies": {
             "python": {}
         },
         "filename": "main.py",
-        "func": "customfunc",
-        "stop_on_failure": false,
-        "timeout": "2h"
+        "func": "customfunc"
     },
     "tags": {
         "path": "",
